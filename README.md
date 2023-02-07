@@ -1,6 +1,6 @@
 # Demo
 
 a demo GIT!
-are any commits new?
+are any commits 
 another added line
 line 6
